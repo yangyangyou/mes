@@ -1,4 +1,3 @@
 # mes
 安徽红桥金属mes系统
-系统使用SSM框架搭建的。做项目时分为网页前端和网页后端。前端是用bootstrap框架搭建的。用javascript和css选择器等写的动态jsp页面。后端是用SSM框架
-搭建的。
+系统使用SSM框架搭建的。做项目时分为网页前端和网页后端。前端是用bootstrap框架搭建的。用javascript和css选择器等写的动态jsp页面。服务端采用Spring+Spring mvc+ Mybatis框架基于Myeclispe平台完成前后端数据的交互；通过Spring的事物管理将业务代码和事物管理分离，防止数据库数据出现问题；利用Spring的IOC解决对象之间的依赖问题，降低耦合度。用Tomcat服务器进行部署发布。
